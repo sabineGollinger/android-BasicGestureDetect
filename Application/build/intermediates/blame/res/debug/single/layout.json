@@ -44,12 +44,12 @@
         "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\workspace\\android-BasicGestureDetect\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
